@@ -2,9 +2,11 @@ import * as React from "react"
 
 import Layout from "../components/layout"
 
+
+
 const IndexPage = () => {
   return (
-    
+
       <Layout pageTitle="Home Page">
         <h1>Welcome to my Gatsby Site</h1>
         <p>This site is dedicated to learning about Gatsby</p>
